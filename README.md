@@ -84,5 +84,5 @@ Special thanks to the contributors and the open-source community for their suppo
 ---
 
 ### Screenshots
-![Home Screen](screenshot1.png)
-![BMI Results](screenshot2.png)
+![Home Screen](BMI1.PNG)
+![BMI Results](BMI2.PNG)
